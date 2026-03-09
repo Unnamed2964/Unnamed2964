@@ -2,6 +2,8 @@
 
 Utility projects related to the metro and railway will be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
 
+Knowledge interests are quite broad...
+
 <!--
 **Unnamed2964/Unnamed2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
