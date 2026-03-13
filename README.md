@@ -4,6 +4,8 @@ Utility projects related to the metro and railway will be named with the 'kyuri'
 
 Knowledge interests are quite broad...
 
+![1773416889799](https://github.com/user-attachments/assets/d17d2879-3676-49c3-b60e-1752da52fa63)
+
 <!--
 **Unnamed2964/Unnamed2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
