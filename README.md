@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Utility projects related to the metro and railway will be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
-
 Knowledge interests are quite broad... I'm open to discussing topics with you, including but not limited to rail transit, user experience (UX), C++, functional programming, concurrent programming (I'd like to learn), formal method (I'd like to learn HoTT), front-end development, dialectical materialism (I'd like to learn), and Greek-Hebrew culture (I'd like to learn).
 
 "Umamichi" and "Umaichi" are used interchangeably, both are correct.
+
+Utility projects related to the metro and railway will be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
 
 <!--
 **Unnamed2964/Unnamed2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
