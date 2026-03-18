@@ -4,6 +4,8 @@ Utility projects related to the metro and railway will be named with the 'kyuri'
 
 Knowledge interests are quite broad...
 
+"Umamichi" and "Umaichi" are used interchangeably, both are correct.
+
 <!--
 **Unnamed2964/Unnamed2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
