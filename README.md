@@ -2,7 +2,7 @@
 
 Utility projects related to the metro and railway will be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
 
-Knowledge interests are quite broad...
+Knowledge interests are quite broad... I'm open to discussing topics with you, including but not limited to C++, functional programming, formal proofs (I'd like to learn Hott), front-end development, user experience, dialectical materialism (I'd like to learn), and Greek-Hebrew culture (I'd like to learn).
 
 "Umamichi" and "Umaichi" are used interchangeably, both are correct.
 
