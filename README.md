@@ -18,7 +18,7 @@ In the near future, I'm looking to improve my social (especially offline) skills
 
 "Uma" is the result of replacing the initial letter of "Ama" to align with "Unnamed2964". "Umamichi" and "Umaichi" are used interchangeably, both are correct.
 
-> A Tip of Network Security: It's worth noting that on any platform, there may only be only single account with any one of them as username or nickname controlled by me. No guarantee that other accounts with these names are controlled by me. By relying only on trusted sources for my account information, safe and smooth collaboration will be ensured.
+> **A Tip of Network Security**: It's worth noting that on any platform, there may only be only single account with any one of them as username or nickname controlled by me. No guarantee that other accounts with these names are controlled by me. By relying only on trusted sources for my account information, safe and smooth collaboration will be ensured.
 
 ## Naming Conventions
 
