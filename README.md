@@ -18,13 +18,11 @@ In the near future, I'm looking to improve my social (especially offline) skills
 
 "Uma" is the result of replacing the initial letter of "Ama" to align with "Unnamed2964". "Umamichi" and "Umaichi" are used interchangeably, both are correct.
 
+> A Tip of Network Security: It's worth noting that on any platform, there may only be only single account with any one of them as username or nickname controlled by me. No guarantee that other accounts with these names are controlled by me. By relying only on trusted sources for my account information, safe and smooth collaboration will be ensured.
+
 ## Naming Conventions
 
 Utility projects related to the metro and railway are planned to be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
-
-## A Tip of Network Security
-
-> It's worth noting that on any platform, there may only be only single account with any one of them as username or nickname controlled by me. No guarantee that other accounts with these names are controlled by me. By relying only on trusted sources for my account information, safe and smooth collaboration will be ensured.
 
 <!--
 **Unnamed2964/Unnamed2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
