@@ -4,7 +4,7 @@ Knowledge interests are quite broad... I'm open to discussing topics with you, i
 
 "Umamichi" and "Umaichi" are used interchangeably, both are correct.
 
-Utility projects related to the metro and railway will be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
+Utility projects related to the metro and railway are planned to be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
 
 <!--
 **Unnamed2964/Unnamed2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
