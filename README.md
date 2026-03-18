@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Knowledge interests are quite broad... I'm open to discussing topics with you, including but not limited to rail transit, user experience (UX), C++, functional programming, concurrent programming (I'd like to learn), formal method (I'd like to learn HoTT), front-end development, dialectical materialism (I'd like to learn), and Greek-Hebrew culture (I'd like to learn). Could they one day be linked together like constellations?
+Knowledge interests are quite broad... I'm open to discussing topics with you, including but not limited to rail transit, user experience (UX), C++, functional programming, concurrent programming (I'd like to learn), formal method (I'd like to learn HoTT), front-end development, dialectical materialism (I'd like to learn), and Greek-Hebrew culture (I'd like to learn). Maybe there will come a time when they are linked like constellations.
 
 "Umamichi" and "Umaichi" are used interchangeably, both are correct.
 
