@@ -2,7 +2,7 @@
 
 Knowledge interests are quite broad... I'm open to discussing topics with you, including but not limited to rail transit, user experience (UX), C++, functional programming, concurrent programming (I'd like to learn), formal method (I'd like to learn HoTT), Koreanic-Japonic languages (I'd like to learn), front-end development, dialectical materialism (I'd like to learn), and Greek-Hebrew culture (I'd like to learn). Maybe and I hope there will come a time, when they are linked like constellations.
 
-"Uma" is the result of replacing the initial letter of "Ama" to align with "Unnamed2964". "Umamichi" and "Umaichi" are used interchangeably, both are correct.
+"Uma" is the result of replacing the initial letter of "Ama" to align with "Unnamed2964". "Umamichi" and "Umaichi" are used interchangeably, both are correct. It's worth noting that on any platform, there may only be a single account with any one of them as a nickname.
 
 Utility projects related to the metro and railway are planned to be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
 
