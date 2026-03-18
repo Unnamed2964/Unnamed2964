@@ -6,7 +6,7 @@ Knowledge interests are quite broad... I'm open to discussing topics with you, i
 - C++,
 - functional programming,
 - concurrent programming (I'd like to learn),
-- formal proving and Type Theory (I'd like to learn HoTT),
+- formal proving and type theory (I'd like to learn HoTT),
 - Koreanic-Japonic languages (I'd like to learn),
 - front-end development,
 - dialectical materialism (I'd like to learn),
