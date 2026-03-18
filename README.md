@@ -15,9 +15,12 @@ Maybe and I hope there will come a time, when they are linked like constellation
 
 "Uma" is the result of replacing the initial letter of "Ama" to align with "Unnamed2964". "Umamichi" and "Umaichi" are used interchangeably, both are correct.
 
+## Naming Conventions
+
 Utility projects related to the metro and railway are planned to be named with the 'kyuri'🥒 prefix under "@kyuri-metro" npm organization name.
 
-A Tip of Network Security: 
+## A Tip of Network Security
+
 > It's worth noting that on any platform, there may only be only single account with any one of them as username or nickname controlled by me. No guarantee that other accounts with these names are controlled by me. By relying only on trusted sources for my account information, safe and smooth collaboration will be ensured.
 
 <!--
