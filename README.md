@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Knowledge interests are quite broad... I'm open to discussing topics with you, including but not limited to 
+My knowledge interests are quite broad, but I'm open to discussing topics with you, including but not limited to 
 - rail transit,
 - user experience (UX),
 - C++,
