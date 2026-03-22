@@ -14,7 +14,7 @@ My knowledge interests are quite broad, but I'm open to discussing topics with y
 
 I fell sorry for constantly changing fields every time my interest takes over. Maybe and I hope there will contingently come a time when they are linked like constellations.
 
-In the near future, I'm looking to improve my social (especially offline) skills and collaborate with people. HRT and RLE are moving forward.
+In the near future, I'm looking to improve my social (especially offline) skills and collaborate with people. HRT🍥 and RLE are moving forward.
 
 "Uma" is the result of replacing the initial letter of "Ama"(甘) into "U", to align with "Unnamed2964". "Umamichi" and "Umaichi" are used interchangeably, both are correct.
 
