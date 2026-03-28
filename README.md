@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-My knowledge interests are quite broad, but I'd like to talk about and learn, including but not limited to 
+I fell sorry for constantly changing fields every time my interest takes over, and I can't master any of them. Maybe and I hope there will contingently come a time when they are linked like constellations.
+
+I'd like to talk about and learn, including but not limited to 
 - rail transit,
 - user experience (UX) and front-end developping,
 - C++ and concurrency programming,
 - functional programming, formal proving and type theory,
 - natural languages and its phonology,
 - dialectical materialism, and Greek-Hebrew culture.
-
-I fell sorry for constantly changing fields every time my interest takes over, and I can't master any of them. Maybe and I hope there will contingently come a time when they are linked like constellations.
 
 In the near future, I'm looking to improve my social (especially offline) skills and collaborate with people. HRT🍥 and RLE are moving forward.
 
