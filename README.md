@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-My knowledge interests are quite broad, but I'm open to discussing topics with you, including but not limited to 
+My knowledge interests are quite broad, but I'd like to talk about and learn, including but not limited to 
 - rail transit,
 - user experience (UX),
 - C++,
 - functional programming,
-- concurrent programming (I'd like to learn),
-- formal proving and type theory (I'd like to learn HoTT),
-- Koreanic-Japonic languages (I'd like to learn),
+- concurrent programming,
+- formal proving and type theory,
+- Koreanic-Japonic languages,
 - front-end development,
-- dialectical materialism (I'd like to learn),
-- and Greek-Hebrew culture (I'd like to learn).
+- dialectical materialism,
+- and Greek-Hebrew culture.
 
-I fell sorry for constantly changing fields every time my interest takes over. Maybe and I hope there will contingently come a time when they are linked like constellations.
+I fell sorry for constantly changing fields every time my interest takes over, and I can't master any of them. Maybe and I hope there will contingently come a time when they are linked like constellations.
 
 In the near future, I'm looking to improve my social (especially offline) skills and collaborate with people. HRT🍥 and RLE are moving forward.
 
