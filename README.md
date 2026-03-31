@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**constellations** linking expecting to:
+**Constellations** linking expecting to:
 
 - rail transit,
 - user experience (UX) and front-end developping,
