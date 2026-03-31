@@ -3,10 +3,9 @@
 **Constellations** linking expecting to:
 
 - rail transit,
-- user experience (UX) and front-end developping,
-- C++ and concurrency programming,
-- functional programming, formal proving and type theory,
-- natural languages and its phonology.
+- front-end developping,
+- C++,
+- functional programming and type theory.
 
 I'm seeking to accumulate experience in collaborating with others to apply diverse knowledge and techniuqes to solve real-time problems.
 
