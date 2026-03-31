@@ -9,7 +9,7 @@
 - natural languages and its phonology,
 - dialectical materialism, and Greek-Hebrew culture.
 
-In the near future, I'm looking to improve my social (especially offline) skills and collaborate with people. HRT🍥 and RLE are moving forward.
+In GitHub, I'm looking to improve my social skills and skills to collaborate with people.
 
 "Uma" is the result of replacing the initial letter of "Ama"(甘) into "U", to align with **"Unnamed2964"**. **"Umamichi"** and **"Umaichi"** are used interchangeably, both are correct.
 
