@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I fell sorry for constantly changing fields every time my interest takes over, and I can't master any of them. I only hope there will **contingently** come a time when they are linked like **constellations**.
+**constellations** linking expecting to:
 
-I'd like to talk about and learn, including but not limited to 
 - rail transit,
 - user experience (UX) and front-end developping,
 - C++ and concurrency programming,
