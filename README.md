@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Constellations** linking expecting to:
+**Constellations** (In a Walter Benjamin's sense) linking expecting to:
 
 - rail transit,
 - front-end developping,
