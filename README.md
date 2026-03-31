@@ -6,10 +6,11 @@
 - user experience (UX) and front-end developping,
 - C++ and concurrency programming,
 - functional programming, formal proving and type theory,
-- natural languages and its phonology,
-- dialectical materialism, and Greek-Hebrew culture.
+- natural languages and its phonology.
 
-In GitHub, I'm looking to improve my social skills and skills to collaborate with people.
+I'm seeking to accumulate experience in collaborating with others to apply diverse knowledge and techniuqes to solve real-time problems.
+
+## Etymology
 
 "Uma" is the result of replacing the initial letter of "Ama"(甘) into "U", to align with **"Unnamed2964"**. **"Umamichi"** and **"Umaichi"** are used interchangeably, both are correct.
 
