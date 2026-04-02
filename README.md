@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Umaichi, I'm working on visual restorating of Shanghai Metro signages.
+Hi, I'm Umaichi, I'm currently working on visual restorating of Shanghai Metro signages.
 
 ## Etymology
 
