@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Hi, I'm Umaichi, I'm currently working on visual restorating of Shanghai Metro signages.
+Hi, I'm Umaichi, I'm currently working on visual restorating of Yangtze River delta Metro signages.
+
+My personal blog is https://umamichi.moe and it is still under construction. I would be very happy if you'd like to exchange links with me.
 
 ## Etymology
 
