@@ -30,7 +30,7 @@ I'm also working on exercises of Software Foundations course([Software Foundatio
 
 "Uma" is the result of replacing the initial letter of "Ama"(甘) into "U", to align with **"Unnamed2964"**. **"Umamichi"** and **"Umaichi"** are used interchangeably, both are correct.
 
-Umamichi is not spelling-friendly; it's more of a morphological stretch, plus a bit of inherited usage. For convenience, you can just call me Umaichi, etc.
+Umamichi is not spelling-friendly; it's more of a morphological stretch, plus a bit of inherited usage. For convenience, you can just call me Umaichi, 2964, etc.
 
 <!--
 **Unnamed2964/Unnamed2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
